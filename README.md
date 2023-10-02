@@ -1,7 +1,7 @@
    Hi, I’m Shumaysah
-   I’m interested in Coding...
-   I’m currently working on small Projects ...
-   I’m looking for clients ...
+   I’m interested in Coding
+   I’m currently working on small Projects 
+   I’m looking for clients .
 
 <!---
 Shumaysah-Developer/Shumaysah-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
